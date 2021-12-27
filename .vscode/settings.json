@@ -1,0 +1,6 @@
+{
+  "jest.jestCommandLine": "./node_modules/.bin/jest --config jest.config.ts",
+  "files.exclude": {
+    "**/.s": true
+  }
+}
